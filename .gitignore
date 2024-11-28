@@ -1,0 +1,7 @@
+venv/
+.env/
+.venv/
+practice.py
+.vscode/
+__pycache__/
+*.py[cod]
